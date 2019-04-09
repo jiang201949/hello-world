@@ -1,3 +1,2 @@
 # hello-world
-test
-i like apple!
+123456
